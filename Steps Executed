@@ -1,0 +1,5 @@
+✅Created a VPC containing one private and public subnet each on a 2 different availability zone.
+✅Created an Auto-Scaling Group for the private subnet to create EC2 instances.
+✅Created a Bastion Server to SSH into the private subnet.
+✅Logged into one private subnet and installed the Python app and exposed it on the port and made it available by editing the Security Groups inbound rule.
+✅Created a load balancer to balance the traffic between the subnets and to receive the request from the internet.
