@@ -1,5 +1,4 @@
 # AWS-VPC for production enviornment
-AWS VPC setup for production environment
 
 About the Project
  This example demostrates how to create a VPC that you can use for a service in production enviorment.
